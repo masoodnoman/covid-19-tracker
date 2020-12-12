@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project based off of a YouTube tutorial.
+
+•	Created a COVID-19 case tracker application that tracks various metrics such as current cases
+•	Used the React framework for interfaces and UI components and HTML/CSS for styling
+•	Relevant and up-to-date data is pulled through an API from a GitHub repository
+
+
 ## Available Scripts
 
 In the project directory, you can run:
